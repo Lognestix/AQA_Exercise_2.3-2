@@ -1,5 +1,5 @@
 ## `Статус сборки` [![Build status](https://ci.appveyor.com/api/projects/status/rdegan0naj2f4tje?svg=true)](https://ci.appveyor.com/project/Lognestix/aqa-exercise-2-3-2)
-# Репортинг (AQA_Exercise_2.3-2)
+# Patterns (AQA_Exercise_2.3-2)
 ## Домашнее задание по курсу "Автоматизированное тестирование"
 ## Тема: «2.3. Patterns», задание №2: «Тестовый режим»
 - Применены инструменты:
